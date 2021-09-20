@@ -1,0 +1,79 @@
+.cardContainer {
+  max-width: 650px;
+}
+
+.cardTitle {
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.optionSection {
+  margin: 0px;
+  padding: 5px;
+}
+
+.optionLabel {
+  font-size: 14px;
+  font-weight: 500;
+  color: rgb(194, 190, 190);
+  margin-right: 7px;
+}
+
+.optionValue {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.genres {
+  font-size: 14px;
+  font-weight: 500;
+  margin-right: 5px;
+}
+
+.about {
+  display: inline-block;
+  margin: 10px 0px 0px 0px;
+  padding: 5px;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.descr {
+  margin: 0px 0px 10px 0px;
+  padding: 0;
+}
+
+.routeLink {
+  text-decoration: none;
+  margin-right: 7px;
+  display: inline-block;
+  color: rgb(65, 110, 65);
+  text-transform: uppercase;
+  font-size: 14px;
+  border: 1px solid grey;
+  padding: 3px;
+  border-radius: 20px;
+}
+
+.routeLink:hover {
+  font-weight: 700;
+  transition: all 0.15s linear;
+}
+
+.activeLink {
+  font-weight: 700;
+}
+
+.goBackBtn {
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 5px 10px;
+  color: black;
+  background-color: #e2dbdb;
+  outline: none;
+  border: 1px solid #f6bf32;
+  border-radius: 20px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}

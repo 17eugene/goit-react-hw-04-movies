@@ -1,0 +1,20 @@
+.reviewList {
+  list-style: none;
+}
+
+.reviewContainer {
+  margin-top: 15px;
+}
+
+.reviewText {
+  margin: 0;
+}
+
+.reviewAuthor {
+  display: inline-block;
+  margin-top: 12px;
+  margin-bottom: 3px;
+  font-weight: 700;
+  font-size: 14px;
+  text-decoration: underline;
+}
